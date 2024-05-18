@@ -9,15 +9,21 @@ packages = [{ include = "zone1tube" }]
 [tool.poetry.dependencies]
 python = "^3.12"
 pydantic = "^2.7.1"
+typer = "^0.12.3"
 
 
 [tool.poetry.group.dev.dependencies]
 ruff = "^0.4.4"
 pyright = "^1.1.363"
+isort = "^5.13.2"
 
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.isort]
+profile = "black"
+skip = [".venv"]
 
 [tool.pyright]
 include = ["zone1tube"]
