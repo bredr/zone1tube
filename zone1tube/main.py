@@ -10,7 +10,11 @@ typer_handler = TyperLoggerHandler()
 basicConfig(level=INFO, handlers=(typer_handler,))
 
 
-def main(starting_station: Annotated[str, typer.Option(help="Starting station, must be in Zone 1.", prompt=True)]):
+def main(
+    starting_station: Annotated[
+        str, typer.Option(help="Starting station, must be in Zone 1.", prompt=True)
+    ],
+):
     with open("./data.json", "r") as f:
         stations = Stations.validate_json(f.read())
     log(level=INFO, msg=f"Loaded {len(stations)} stations.")
