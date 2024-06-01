@@ -13,6 +13,10 @@ class Destination(BaseModel):
     line_id: int
 
 
+class ExtDestination(Destination):
+    line_ref: int
+
+
 class Station(BaseModel):
     name: str
     total_lines: int
@@ -24,4 +28,17 @@ class Station(BaseModel):
     destinations: list[Destination]
 
 
+class ExtStation(BaseModel):
+    name: str
+    total_lines: int
+    id: int
+    longitude: float
+    latitude: float
+    rail: int
+    zone: float
+    destinations: list[ExtDestination]
+
+
 Stations = TypeAdapter(list[Station])
+
+ExtStations = TypeAdapter(list[ExtStation])

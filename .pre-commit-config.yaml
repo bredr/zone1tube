@@ -1,0 +1,20 @@
+repos:
+- repo: https://github.com/pycqa/isort
+  rev: 5.13.2
+  hooks:
+  - id: isort
+    args: [--treat-comment-as-code, "# %%", --float-to-top]
+- repo: https://github.com/astral-sh/ruff-pre-commit
+  rev: v0.4.7
+  hooks:
+    - id: ruff
+      args: [--fix, --exit-non-zero-on-fix]
+    - id: ruff-format    
+- repo: local
+  hooks:
+    -   id: pyright
+        name: pyright
+        entry: pyright
+        language: system
+        types: [python]
+        require_serial: true

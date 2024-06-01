@@ -1,0 +1,3905 @@
+[
+    {
+        "name": "Aldgate",
+        "total_lines": 2,
+        "id": 2,
+        "longitude": -0.0755,
+        "latitude": 51.5143,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Liverpool Street",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0823,
+                "latitude": 51.5178,
+                "station_id": 156,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref": 26
+            },
+            {
+                "name": "Tower Hill",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 4,
+                "longitude": -0.0766,
+                "latitude": 51.5098,
+                "station_id": 262,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref": 25
+            },
+            {
+                "name": "Liverpool Street",
+                "line_colour": "751056",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0823,
+                "latitude": 51.5178,
+                "station_id": 156,
+                "line_name": "Metropolitan Line",
+                "line_id": 8,
+                "line_ref": 18
+            }
+        ]
+    },
+    {
+        "name": "Aldgate East",
+        "total_lines": 2,
+        "id": 3,
+        "longitude": -0.0726,
+        "latitude": 51.5154,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Tower Hill",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0766,
+                "latitude": 51.5098,
+                "station_id": 262,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 20
+            },
+            {
+                "name": "Liverpool Street",
+                "line_colour": "d799af",
+                "line_stripe": "",
+                "time": 4,
+                "longitude": -0.0823,
+                "latitude": 51.5178,
+                "station_id": 156,
+                "line_name": "Hammersmith & City Line",
+                "line_id": 6,
+                "line_ref": 24
+            }
+        ]
+    },
+    {
+        "name": "Angel",
+        "total_lines": 1,
+        "id": 7,
+        "longitude": -0.1058,
+        "latitude": 51.5322,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "King'sCross St. Pancras",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1238,
+                "latitude": 51.5308,
+                "station_id": 145,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 13
+            },
+            {
+                "name": "Old Street",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.0873,
+                "latitude": 51.5263,
+                "station_id": 188,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 14
+            }
+        ]
+    },
+    {
+        "name": "Baker Street",
+        "total_lines": 5,
+        "id": 11,
+        "longitude": -0.1571,
+        "latitude": 51.5226,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Marylebone",
+                "line_colour": "894e24",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1631,
+                "latitude": 51.5225,
+                "station_id": 163,
+                "line_name": "Bakerloo Line",
+                "line_id": 1,
+                "line_ref": 6
+            },
+            {
+                "name": "Regent'sPark",
+                "line_colour": "894e24",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1466,
+                "latitude": 51.5234,
+                "station_id": 211,
+                "line_name": "Bakerloo Line",
+                "line_id": 1,
+                "line_ref": 5
+            },
+            {
+                "name": "Edgware Road (CN)",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.17,
+                "latitude": 51.5203,
+                "station_id": 83,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref": 26
+            },
+            {
+                "name": "Great Portland Street",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1439,
+                "latitude": 51.5238,
+                "station_id": 104,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref": 25
+            },
+            {
+                "name": "Edgware Road (CN)",
+                "line_colour": "d799af",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.17,
+                "latitude": 51.5203,
+                "station_id": 83,
+                "line_name": "Hammersmith & City Line",
+                "line_id": 6,
+                "line_ref": 24
+            },
+            {
+                "name": "Great Portland Street",
+                "line_colour": "d799af",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1439,
+                "latitude": 51.5238,
+                "station_id": 104,
+                "line_name": "Hammersmith & City Line",
+                "line_id": 6,
+                "line_ref": 23
+            },
+            {
+                "name": "Bond Street",
+                "line_colour": "6a7278",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1494,
+                "latitude": 51.5142,
+                "station_id": 28,
+                "line_name": "Jubilee Line",
+                "line_id": 7,
+                "line_ref": 9
+            },
+            {
+                "name": "Great Portland Street",
+                "line_colour": "751056",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1439,
+                "latitude": 51.5238,
+                "station_id": 104,
+                "line_name": "Metropolitan Line",
+                "line_id": 8,
+                "line_ref": 17
+            }
+        ]
+    },
+    {
+        "name": "Bank",
+        "total_lines": 4,
+        "id": 13,
+        "longitude": -0.0886,
+        "latitude": 51.5133,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Liverpool Street",
+                "line_colour": "dc241f",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0823,
+                "latitude": 51.5178,
+                "station_id": 156,
+                "line_name": "Central Line",
+                "line_id": 2,
+                "line_ref": 1
+            },
+            {
+                "name": "St. Paul's",
+                "line_colour": "dc241f",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0973,
+                "latitude": 51.5146,
+                "station_id": 249,
+                "line_name": "Central Line",
+                "line_id": 2,
+                "line_ref": 2
+            },
+            {
+                "name": "London Bridge",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0864,
+                "latitude": 51.5052,
+                "station_id": 157,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 14
+            },
+            {
+                "name": "Moorgate",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.0886,
+                "latitude": 51.5186,
+                "station_id": 167,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 13
+            },
+            {
+                "name": "Waterloo",
+                "line_colour": "76d0bd",
+                "line_stripe": "",
+                "time": 4,
+                "longitude": -0.1143,
+                "latitude": 51.5036,
+                "station_id": 278,
+                "line_name": "Waterloo & City Line",
+                "line_id": 12,
+                "line_ref":29
+            }
+        ]
+    },
+    {
+        "name": "Barbican",
+        "total_lines": 3,
+        "id": 14,
+        "longitude": -0.0979,
+        "latitude": 51.5204,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Farringdon",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1053,
+                "latitude": 51.5203,
+                "station_id": 92,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref": 26
+            },
+            {
+                "name": "Moorgate",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0886,
+                "latitude": 51.5186,
+                "station_id": 167,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref": 25
+            },
+            {
+                "name": "Farringdon",
+                "line_colour": "d799af",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1053,
+                "latitude": 51.5203,
+                "station_id": 92,
+                "line_name": "Hammersmith & City Line",
+                "line_id": 6,
+                "line_ref": 24
+            },
+            {
+                "name": "Moorgate",
+                "line_colour": "d799af",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0886,
+                "latitude": 51.5186,
+                "station_id": 167,
+                "line_name": "Hammersmith & City Line",
+                "line_id": 6,
+                "line_ref": 23
+            },
+            {
+                "name": "Farringdon",
+                "line_colour": "751056",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1053,
+                "latitude": 51.5203,
+                "station_id": 92,
+                "line_name": "Metropolitan Line",
+                "line_id": 8,
+                "line_ref": 18
+            },
+            {
+                "name": "Moorgate",
+                "line_colour": "751056",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0886,
+                "latitude": 51.5186,
+                "station_id": 167,
+                "line_name": "Metropolitan Line",
+                "line_id": 8,
+                "line_ref": 17
+            }
+        ]
+    },
+    {
+        "name": "Bayswater",
+        "total_lines": 2,
+        "id": 18,
+        "longitude": -0.1879,
+        "latitude": 51.5121,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Notting Hill Gate",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1967,
+                "latitude": 51.5094,
+                "station_id": 186,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref": 26
+            },
+            {
+                "name": "Paddington",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1755,
+                "latitude": 51.5154,
+                "station_id": 192,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref": 25
+            },
+            {
+                "name": "Notting Hill Gate",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1967,
+                "latitude": 51.5094,
+                "station_id": 186,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 22
+            },
+            {
+                "name": "Paddington",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1755,
+                "latitude": 51.5154,
+                "station_id": 192,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 21
+            }
+        ]
+    },
+    {
+        "name": "Blackfriars",
+        "total_lines": 2,
+        "id": 25,
+        "longitude": -0.1031,
+        "latitude": 51.512,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Mansion House",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.094,
+                "latitude": 51.5122,
+                "station_id": 161,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref": 26
+            },
+            {
+                "name": "Temple",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1141,
+                "latitude": 51.5111,
+                "station_id": 254,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref": 25
+            },
+            {
+                "name": "Mansion House",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.094,
+                "latitude": 51.5122,
+                "station_id": 161,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 19
+            },
+            {
+                "name": "Temple",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1141,
+                "latitude": 51.5111,
+                "station_id": 254,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 20
+            }
+        ]
+    },
+    {
+        "name": "Bond Street",
+        "total_lines": 2,
+        "id": 28,
+        "longitude": -0.1494,
+        "latitude": 51.5142,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Marble Arch",
+                "line_colour": "dc241f",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1586,
+                "latitude": 51.5136,
+                "station_id": 162,
+                "line_name": "Central Line",
+                "line_id": 2,
+                "line_ref": 2
+            },
+            {
+                "name": "Oxford Circus",
+                "line_colour": "dc241f",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1415,
+                "latitude": 51.515,
+                "station_id": 191,
+                "line_name": "Central Line",
+                "line_id": 2,
+                "line_ref": 1
+            },
+            {
+                "name": "Baker Street",
+                "line_colour": "6a7278",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1571,
+                "latitude": 51.5226,
+                "station_id": 11,
+                "line_name": "Jubilee Line",
+                "line_id": 7,
+                "line_ref": 10
+            },
+            {
+                "name": "Green Park",
+                "line_colour": "6a7278",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1428,
+                "latitude": 51.5067,
+                "station_id": 107,
+                "line_name": "Jubilee Line",
+                "line_id": 7,
+                "line_ref": 9
+            }
+        ]
+    },
+    {
+        "name": "Borough",
+        "total_lines": 1,
+        "id": 29,
+        "longitude": -0.0943,
+        "latitude": 51.5011,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Elephant & Castle",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1001,
+                "latitude": 51.4943,
+                "station_id": 84,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 14
+            },
+            {
+                "name": "London Bridge",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0864,
+                "latitude": 51.5052,
+                "station_id": 157,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 13
+            }
+        ]
+    },
+    {
+        "name": "Cannon Street",
+        "total_lines": 2,
+        "id": 44,
+        "longitude": -0.0904,
+        "latitude": 51.5113,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Mansion House",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.094,
+                "latitude": 51.5122,
+                "station_id": 161,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref": 25
+            },
+            {
+                "name": "Monument",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0863,
+                "latitude": 51.5108,
+                "station_id": 166,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref": 26
+            },
+            {
+                "name": "Mansion House",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.094,
+                "latitude": 51.5122,
+                "station_id": 161,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 20
+            },
+            {
+                "name": "Monument",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0863,
+                "latitude": 51.5108,
+                "station_id": 166,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 19
+            }
+        ]
+    },
+    {
+        "name": "Chancery Lane",
+        "total_lines": 1,
+        "id": 48,
+        "longitude": -0.1111,
+        "latitude": 51.5185,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Holborn",
+                "line_colour": "dc241f",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.12,
+                "latitude": 51.5174,
+                "station_id": 126,
+                "line_name": "Central Line",
+                "line_id": 2,
+                "line_ref": 2
+            },
+            {
+                "name": "St. Paul's",
+                "line_colour": "dc241f",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0973,
+                "latitude": 51.5146,
+                "station_id": 249,
+                "line_name": "Central Line",
+                "line_id": 2,
+                "line_ref": 1
+            }
+        ]
+    },
+    {
+        "name": "Charing Cross",
+        "total_lines": 2,
+        "id": 49,
+        "longitude": -0.1247,
+        "latitude": 51.508,
+        "rail": 1,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Embankment",
+                "line_colour": "894e24",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1223,
+                "latitude": 51.5074,
+                "station_id": 87,
+                "line_name": "Bakerloo Line",
+                "line_id": 1,
+                "line_ref": 5
+            },
+            {
+                "name": "Picadilly Circus",
+                "line_colour": "894e24",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1342,
+                "latitude": 51.5098,
+                "station_id": 196,
+                "line_name": "Bakerloo Line",
+                "line_id": 1,
+                "line_ref": 6
+            },
+            {
+                "name": "Embankment",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1223,
+                "latitude": 51.5074,
+                "station_id": 87,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 12
+            },
+            {
+                "name": "Leicester Square",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1281,
+                "latitude": 51.5113,
+                "station_id": 151,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 11
+            }
+        ]
+    },
+    {
+        "name": "Covent Garden",
+        "total_lines": 1,
+        "id": 60,
+        "longitude": -0.1243,
+        "latitude": 51.5129,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Holborn",
+                "line_colour": "0019a8",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.12,
+                "latitude": 51.5174,
+                "station_id": 126,
+                "line_name": "Piccadilly Line",
+                "line_id": 10,
+                "line_ref": 7
+            },
+            {
+                "name": "Leicester Square",
+                "line_colour": "0019a8",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1281,
+                "latitude": 51.5113,
+                "station_id": 151,
+                "line_name": "Piccadilly Line",
+                "line_id": 10,
+                "line_ref": 8
+            }
+        ]
+    },
+    {
+        "name": "Earl'sCourt",
+        "total_lines": 2,
+        "id": 74,
+        "longitude": -0.1973,
+        "latitude": 51.492,
+        "rail": 0,
+        "zone": 1.5,
+        "destinations": [
+            {
+                "name": "Gloucester Road",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1829,
+                "latitude": 51.4945,
+                "station_id": 99,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 19
+            },
+            {
+                "name": "High Street Kensington",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1925,
+                "latitude": 51.5009,
+                "station_id": 122,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 21
+            },
+            {
+                "name": "Gloucester Road",
+                "line_colour": "0019a8",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1829,
+                "latitude": 51.4945,
+                "station_id": 99,
+                "line_name": "Piccadilly Line",
+                "line_id": 10,
+                "line_ref": 7
+            }
+        ]
+    },
+    {
+        "name": "Edgware Road (B)",
+        "total_lines": 1,
+        "id": 82,
+        "longitude": -0.1679,
+        "latitude": 51.5199,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Marylebone",
+                "line_colour": "894e24",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1631,
+                "latitude": 51.5225,
+                "station_id": 163,
+                "line_name": "Bakerloo Line",
+                "line_id": 1,
+                "line_ref": 5
+            },
+            {
+                "name": "Paddington",
+                "line_colour": "894e24",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1755,
+                "latitude": 51.5154,
+                "station_id": 192,
+                "line_name": "Bakerloo Line",
+                "line_id": 1,
+                "line_ref": 6
+            }
+        ]
+    },
+    {
+        "name": "Edgware Road (CS)",
+        "total_lines": 2,
+        "id": 306,
+        "longitude": -0.17,
+        "latitude": 51.5203,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Paddington",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1755,
+                "latitude": 51.5154,
+                "station_id": 192,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref": 26
+            },
+            {
+                "name": "Paddington",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1755,
+                "latitude": 51.5154,
+                "station_id": 192,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 22
+            },
+            {
+                "name": "Edgware Road (CN)",
+                "line_colour": "d799af",
+                "line_stripe": "",
+                "time": 0,
+                "longitude": -0.17,
+                "latitude": 51.5203,
+                "station_id": 83,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref": 27
+            }
+        ]
+    },
+    {
+        "name": "Edgware Road (CN)",
+        "total_lines": 2,
+        "id": 83,
+        "longitude": -0.17,
+        "latitude": 51.5203,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Baker Street",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1571,
+                "latitude": 51.5226,
+                "station_id": 11,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref": 25
+            },
+            {
+                "name": "Paddington",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1755,
+                "latitude": 51.5154,
+                "station_id": 192,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref": 26
+            },
+            {
+                "name": "Baker Street",
+                "line_colour": "d799af",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1571,
+                "latitude": 51.5226,
+                "station_id": 11,
+                "line_name": "Hammersmith & City Line",
+                "line_id": 6,
+                "line_ref": 23
+            },
+            {
+                "name": "Paddington",
+                "line_colour": "d799af",
+                "line_stripe": "",
+                "time": 4,
+                "longitude": -0.1755,
+                "latitude": 51.5154,
+                "station_id": 192,
+                "line_name": "Hammersmith & City Line",
+                "line_id": 6,
+                "line_ref": 24
+            },
+            {
+                "name": "Edgware Road (CS)",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 0,
+                "longitude": -0.17,
+                "latitude": 51.5203,
+                "station_id": 306,
+                "line_name": "Circle Line",
+                "line_id": 27,
+                "line_ref": 27
+            }
+        ]
+    },
+    {
+        "name": "Elephant & Castle",
+        "total_lines": 2,
+        "id": 84,
+        "longitude": -0.1001,
+        "latitude": 51.4943,
+        "rail": 1,
+        "zone": 1.5,
+        "destinations": [
+            {
+                "name": "Lambeth North",
+                "line_colour": "894e24",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1115,
+                "latitude": 51.4991,
+                "station_id": 148,
+                "line_name": "Bakerloo Line",
+                "line_id": 1,
+                "line_ref": 6
+            },
+            {
+                "name": "Borough",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.0943,
+                "latitude": 51.5011,
+                "station_id": 29,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 13
+            },
+            {
+                "name": "Kennington",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1053,
+                "latitude": 51.4884,
+                "station_id": 136,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 14
+            }
+        ]
+    },
+    {
+        "name": "Embankment",
+        "total_lines": 4,
+        "id": 87,
+        "longitude": -0.1223,
+        "latitude": 51.5074,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Charing Cross",
+                "line_colour": "894e24",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1247,
+                "latitude": 51.508,
+                "station_id": 49,
+                "line_name": "Bakerloo Line",
+                "line_id": 1,
+                "line_ref": 6
+            },
+            {
+                "name": "Waterloo",
+                "line_colour": "894e24",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1143,
+                "latitude": 51.5036,
+                "station_id": 278,
+                "line_name": "Bakerloo Line",
+                "line_id": 1,
+                "line_ref": 5
+            },
+            {
+                "name": "Temple",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1141,
+                "latitude": 51.5111,
+                "station_id": 254,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":26
+            },
+            {
+                "name": "Westminster",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1254,
+                "latitude": 51.501000000000005,
+                "station_id": 284,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":25
+            },
+            {
+                "name": "Temple",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1141,
+                "latitude": 51.5111,
+                "station_id": 254,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 19
+            },
+            {
+                "name": "Westminster",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1254,
+                "latitude": 51.501000000000005,
+                "station_id": 284,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 20
+            },
+            {
+                "name": "Charing Cross",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1247,
+                "latitude": 51.508,
+                "station_id": 49,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 11
+            },
+            {
+                "name": "Waterloo",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1143,
+                "latitude": 51.5036,
+                "station_id": 278,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 12
+            }
+        ]
+    },
+    {
+        "name": "Euston",
+        "total_lines": 2,
+        "id": 89,
+        "longitude": -0.1337,
+        "latitude": 51.5282,
+        "rail": 1,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "King'sCross St. Pancras",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1238,
+                "latitude": 51.5308,
+                "station_id": 145,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 14
+            },
+            {
+                "name": "Warren Street",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1384,
+                "latitude": 51.5247,
+                "station_id": 276,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 12
+            },
+            {
+                "name": "King'sCross St. Pancras",
+                "line_colour": "00a0e2",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1238,
+                "latitude": 51.5308,
+                "station_id": 145,
+                "line_name": "Victoria Line",
+                "line_id": 11,
+                "line_ref": 4
+            },
+            {
+                "name": "Warren Street",
+                "line_colour": "00a0e2",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1384,
+                "latitude": 51.5247,
+                "station_id": 276,
+                "line_name": "Victoria Line",
+                "line_id": 11,
+                "line_ref": 3
+            }
+        ]
+    },
+    {
+        "name": "Euston Square",
+        "total_lines": 3,
+        "id": 90,
+        "longitude": -0.1359,
+        "latitude": 51.526,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Great Portland Street",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1439,
+                "latitude": 51.5238,
+                "station_id": 104,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":26
+            },
+            {
+                "name": "King'sCross St. Pancras",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1238,
+                "latitude": 51.5308,
+                "station_id": 145,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":25
+            },
+            {
+                "name": "Great Portland Street",
+                "line_colour": "d799af",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1439,
+                "latitude": 51.5238,
+                "station_id": 104,
+                "line_name": "Hammersmith & City Line",
+                "line_id": 6,
+                "line_ref": 24
+            },
+            {
+                "name": "King'sCross St. Pancras",
+                "line_colour": "d799af",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1238,
+                "latitude": 51.5308,
+                "station_id": 145,
+                "line_name": "Hammersmith & City Line",
+                "line_id": 6,
+                "line_ref": 23
+            },
+            {
+                "name": "Great Portland Street",
+                "line_colour": "751056",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1439,
+                "latitude": 51.5238,
+                "station_id": 104,
+                "line_name": "Metropolitan Line",
+                "line_id": 8,
+                "line_ref": 18
+            },
+            {
+                "name": "King'sCross St. Pancras",
+                "line_colour": "751056",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1238,
+                "latitude": 51.5308,
+                "station_id": 145,
+                "line_name": "Metropolitan Line",
+                "line_id": 8,
+                "line_ref": 17
+            }
+        ]
+    },
+    {
+        "name": "Farringdon",
+        "total_lines": 3,
+        "id": 92,
+        "longitude": -0.1053,
+        "latitude": 51.5203,
+        "rail": 1,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Barbican",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.0979,
+                "latitude": 51.5204,
+                "station_id": 14,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":25
+            },
+            {
+                "name": "King'sCross St. Pancras",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 4,
+                "longitude": -0.1238,
+                "latitude": 51.5308,
+                "station_id": 145,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":26
+            },
+            {
+                "name": "Barbican",
+                "line_colour": "d799af",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.0979,
+                "latitude": 51.5204,
+                "station_id": 14,
+                "line_name": "Hammersmith & City Line",
+                "line_id": 6,
+                "line_ref": 23
+            },
+            {
+                "name": "King'sCross St. Pancras",
+                "line_colour": "d799af",
+                "line_stripe": "",
+                "time": 4,
+                "longitude": -0.1238,
+                "latitude": 51.5308,
+                "station_id": 145,
+                "line_name": "Hammersmith & City Line",
+                "line_id": 6,
+                "line_ref": 24
+            },
+            {
+                "name": "Barbican",
+                "line_colour": "751056",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.0979,
+                "latitude": 51.5204,
+                "station_id": 14,
+                "line_name": "Metropolitan Line",
+                "line_id": 8,
+                "line_ref": 17
+            },
+            {
+                "name": "King'sCross St. Pancras",
+                "line_colour": "751056",
+                "line_stripe": "",
+                "time": 4,
+                "longitude": -0.1238,
+                "latitude": 51.5308,
+                "station_id": 145,
+                "line_name": "Metropolitan Line",
+                "line_id": 8,
+                "line_ref": 18
+            }
+        ]
+    },
+    {
+        "name": "Gloucester Road",
+        "total_lines": 3,
+        "id": 99,
+        "longitude": -0.1829,
+        "latitude": 51.4945,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "High Street Kensington",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 4,
+                "longitude": -0.1925,
+                "latitude": 51.5009,
+                "station_id": 122,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":25
+            },
+            {
+                "name": "South Kensington",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1738,
+                "latitude": 51.4941,
+                "station_id": 235,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":26
+            },
+            {
+                "name": "Earl's Court",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1973,
+                "latitude": 51.492,
+                "station_id": 74,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 20
+            },
+            {
+                "name": "South Kensington",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1738,
+                "latitude": 51.4941,
+                "station_id": 235,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 19
+            },
+            {
+                "name": "Earl'sCourt",
+                "line_colour": "0019a8",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1973,
+                "latitude": 51.492,
+                "station_id": 74,
+                "line_name": "Piccadilly Line",
+                "line_id": 10,
+                "line_ref": 8
+            },
+            {
+                "name": "South Kensington",
+                "line_colour": "0019a8",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1738,
+                "latitude": 51.4941,
+                "station_id": 235,
+                "line_name": "Piccadilly Line",
+                "line_id": 10,
+                "line_ref": 7
+            }
+        ]
+    },
+    {
+        "name": "Goodge Street",
+        "total_lines": 1,
+        "id": 102,
+        "longitude": -0.1347,
+        "latitude": 51.5205,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Tottenham Court Road",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.131,
+                "latitude": 51.5165,
+                "station_id": 258,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 12
+            },
+            {
+                "name": "Warren Street",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1384,
+                "latitude": 51.5247,
+                "station_id": 276,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 11
+            }
+        ]
+    },
+    {
+        "name": "Great Portland Street",
+        "total_lines": 3,
+        "id": 104,
+        "longitude": -0.1439,
+        "latitude": 51.5238,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Baker Street",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1571,
+                "latitude": 51.5226,
+                "station_id": 11,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":26
+            },
+            {
+                "name": "Euston Square",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1359,
+                "latitude": 51.526,
+                "station_id": 90,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":25
+            },
+            {
+                "name": "Baker Street",
+                "line_colour": "d799af",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1571,
+                "latitude": 51.5226,
+                "station_id": 11,
+                "line_name": "Hammersmith & City Line",
+                "line_id": 6,
+                "line_ref": 24
+            },
+            {
+                "name": "Euston Square",
+                "line_colour": "d799af",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1359,
+                "latitude": 51.526,
+                "station_id": 90,
+                "line_name": "Hammersmith & City Line",
+                "line_id": 6,
+                "line_ref": 23
+            },
+            {
+                "name": "Baker Street",
+                "line_colour": "751056",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1571,
+                "latitude": 51.5226,
+                "station_id": 11,
+                "line_name": "Metropolitan Line",
+                "line_id": 8,
+                "line_ref": 18
+            },
+            {
+                "name": "Euston Square",
+                "line_colour": "751056",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1359,
+                "latitude": 51.526,
+                "station_id": 90,
+                "line_name": "Metropolitan Line",
+                "line_id": 8,
+                "line_ref": 17
+            }
+        ]
+    },
+    {
+        "name": "Green Park",
+        "total_lines": 3,
+        "id": 107,
+        "longitude": -0.1428,
+        "latitude": 51.5067,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Bond Street",
+                "line_colour": "6a7278",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1494,
+                "latitude": 51.5142,
+                "station_id": 28,
+                "line_name": "Jubilee Line",
+                "line_id": 7,
+                "line_ref": 10
+            },
+            {
+                "name": "Westminster",
+                "line_colour": "6a7278",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1254,
+                "latitude": 51.501000000000005,
+                "station_id": 284,
+                "line_name": "Jubilee Line",
+                "line_id": 7,
+                "line_ref": 9
+            },
+            {
+                "name": "Hyde Park Corner",
+                "line_colour": "0019a8",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1527,
+                "latitude": 51.5027,
+                "station_id": 133,
+                "line_name": "Piccadilly Line",
+                "line_id": 10,
+                "line_ref": 8
+            },
+            {
+                "name": "Picadilly Circus",
+                "line_colour": "0019a8",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1342,
+                "latitude": 51.5098,
+                "station_id": 196,
+                "line_name": "Piccadilly Line",
+                "line_id": 10,
+                "line_ref": 7
+            },
+            {
+                "name": "Oxford Circus",
+                "line_colour": "00a0e2",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1415,
+                "latitude": 51.515,
+                "station_id": 191,
+                "line_name": "Victoria Line",
+                "line_id": 11,
+                "line_ref": 4
+            },
+            {
+                "name": "Victoria",
+                "line_colour": "00a0e2",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1447,
+                "latitude": 51.4965,
+                "station_id": 272,
+                "line_name": "Victoria Line",
+                "line_id": 11,
+                "line_ref": 3
+            }
+        ]
+    },
+    {
+        "name": "High Street Kensington",
+        "total_lines": 2,
+        "id": 122,
+        "longitude": -0.1925,
+        "latitude": 51.5009,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Gloucester Road",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 4,
+                "longitude": -0.1829,
+                "latitude": 51.4945,
+                "station_id": 99,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":26
+            },
+            {
+                "name": "Notting Hill Gate",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1967,
+                "latitude": 51.5094,
+                "station_id": 186,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":25
+            },
+            {
+                "name": "Earl's Court",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1973,
+                "latitude": 51.492,
+                "station_id": 74,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 22
+            },
+            {
+                "name": "Notting Hill Gate",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1967,
+                "latitude": 51.5094,
+                "station_id": 186,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 21
+            }
+        ]
+    },
+    {
+        "name": "Holborn",
+        "total_lines": 2,
+        "id": 126,
+        "longitude": -0.12,
+        "latitude": 51.5174,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Chancery Lane",
+                "line_colour": "dc241f",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1111,
+                "latitude": 51.5185,
+                "station_id": 48,
+                "line_name": "Central Line",
+                "line_id": 2,
+                "line_ref": 1
+            },
+            {
+                "name": "Tottenham Court Road",
+                "line_colour": "dc241f",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.131,
+                "latitude": 51.5165,
+                "station_id": 258,
+                "line_name": "Central Line",
+                "line_id": 2,
+                "line_ref": 2
+            },
+            {
+                "name": "Covent Garden",
+                "line_colour": "0019a8",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1243,
+                "latitude": 51.5129,
+                "station_id": 60,
+                "line_name": "Piccadilly Line",
+                "line_id": 10,
+                "line_ref": 8
+            },
+            {
+                "name": "Russell Square",
+                "line_colour": "0019a8",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1244,
+                "latitude": 51.523,
+                "station_id": 222,
+                "line_name": "Piccadilly Line",
+                "line_id": 10,
+                "line_ref": 7
+            }
+        ]
+    },
+    {
+        "name": "Hyde Park Corner",
+        "total_lines": 1,
+        "id": 133,
+        "longitude": -0.1527,
+        "latitude": 51.5027,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Green Park",
+                "line_colour": "0019a8",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1428,
+                "latitude": 51.5067,
+                "station_id": 107,
+                "line_name": "Piccadilly Line",
+                "line_id": 10,
+                "line_ref": 7
+            },
+            {
+                "name": "Knightsbridge",
+                "line_colour": "0019a8",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1607,
+                "latitude": 51.5015,
+                "station_id": 146,
+                "line_name": "Piccadilly Line",
+                "line_id": 10,
+                "line_ref": 8
+            }
+        ]
+    },
+    {
+        "name": "Kennington",
+        "total_lines": 1,
+        "id": 136,
+        "longitude": -0.1053,
+        "latitude": 51.4884,
+        "rail": 0,
+        "zone": 1.5,
+        "destinations": [
+            {
+                "name": "Elephant & Castle",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1001,
+                "latitude": 51.4943,
+                "station_id": 84,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 13
+            },
+            {
+                "name": "Waterloo",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1143,
+                "latitude": 51.5036,
+                "station_id": 278,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 11
+            },
+            {
+                "name": "Nine Elms",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1285,
+                "latitude": 51.4799,
+                "station_id": 303,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 15
+            }
+        ]
+    },
+    {
+        "name": "Nine Elms",
+        "total_lines": 1,
+        "id": 303,
+        "longitude": -0.1285,
+        "latitude": 51.4799,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Kennington",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1053,
+                "latitude": 51.4884,
+                "station_id": 136,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 16
+            },
+            {
+                "name": "Battersea Power Station",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.142,
+                "latitude": 51.4795,
+                "station_id": 304,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 15
+            }
+        ]
+    },
+    {
+        "name": "Battersea Power Station",
+        "total_lines": 1,
+        "id": 304,
+        "longitude": -0.142,
+        "latitude": 51.4795,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Nine Elms",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1285,
+                "latitude": 51.4799,
+                "station_id": 303,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 16
+            }
+        ]
+    },
+    {
+        "name": "King'sCross St. Pancras",
+        "total_lines": 6,
+        "id": 145,
+        "longitude": -0.1238,
+        "latitude": 51.5308,
+        "rail": 1,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Euston Square",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1359,
+                "latitude": 51.526,
+                "station_id": 90,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":26
+            },
+            {
+                "name": "Farringdon",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 4,
+                "longitude": -0.1053,
+                "latitude": 51.5203,
+                "station_id": 92,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":25
+            },
+            {
+                "name": "Euston Square",
+                "line_colour": "d799af",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1359,
+                "latitude": 51.526,
+                "station_id": 90,
+                "line_name": "Hammersmith & City Line",
+                "line_id": 6,
+                "line_ref": 24
+            },
+            {
+                "name": "Farringdon",
+                "line_colour": "d799af",
+                "line_stripe": "",
+                "time": 4,
+                "longitude": -0.1053,
+                "latitude": 51.5203,
+                "station_id": 92,
+                "line_name": "Hammersmith & City Line",
+                "line_id": 6,
+                "line_ref": 23
+            },
+            {
+                "name": "Euston Square",
+                "line_colour": "751056",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1359,
+                "latitude": 51.526,
+                "station_id": 90,
+                "line_name": "Metropolitan Line",
+                "line_id": 8,
+                "line_ref": 18
+            },
+            {
+                "name": "Farringdon",
+                "line_colour": "751056",
+                "line_stripe": "",
+                "time": 4,
+                "longitude": -0.1053,
+                "latitude": 51.5203,
+                "station_id": 92,
+                "line_name": "Metropolitan Line",
+                "line_id": 8,
+                "line_ref": 17
+            },
+            {
+                "name": "Angel",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1058,
+                "latitude": 51.5322,
+                "station_id": 7,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 14
+            },
+            {
+                "name": "Euston",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1337,
+                "latitude": 51.5282,
+                "station_id": 89,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 13
+            },
+            {
+                "name": "Russell Square",
+                "line_colour": "0019a8",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1244,
+                "latitude": 51.523,
+                "station_id": 222,
+                "line_name": "Piccadilly Line",
+                "line_id": 10,
+                "line_ref": 8
+            },
+            {
+                "name": "Euston",
+                "line_colour": "00a0e2",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1337,
+                "latitude": 51.5282,
+                "station_id": 89,
+                "line_name": "Victoria Line",
+                "line_id": 11,
+                "line_ref": 3
+            }
+        ]
+    },
+    {
+        "name": "Knightsbridge",
+        "total_lines": 1,
+        "id": 146,
+        "longitude": -0.1607,
+        "latitude": 51.5015,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Hyde Park Corner",
+                "line_colour": "0019a8",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1527,
+                "latitude": 51.5027,
+                "station_id": 133,
+                "line_name": "Piccadilly Line",
+                "line_id": 10,
+                "line_ref": 7
+            },
+            {
+                "name": "South Kensington",
+                "line_colour": "0019a8",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1738,
+                "latitude": 51.4941,
+                "station_id": 235,
+                "line_name": "Piccadilly Line",
+                "line_id": 10,
+                "line_ref": 8
+            }
+        ]
+    },
+    {
+        "name": "Lambeth North",
+        "total_lines": 1,
+        "id": 148,
+        "longitude": -0.1115,
+        "latitude": 51.4991,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Elephant & Castle",
+                "line_colour": "894e24",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1001,
+                "latitude": 51.4943,
+                "station_id": 84,
+                "line_name": "Bakerloo Line",
+                "line_id": 1,
+                "line_ref": 5
+            },
+            {
+                "name": "Waterloo",
+                "line_colour": "894e24",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1143,
+                "latitude": 51.5036,
+                "station_id": 278,
+                "line_name": "Bakerloo Line",
+                "line_id": 1,
+                "line_ref": 6
+            }
+        ]
+    },
+    {
+        "name": "Lancaster Gate",
+        "total_lines": 1,
+        "id": 149,
+        "longitude": -0.1756,
+        "latitude": 51.5119,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Marble Arch",
+                "line_colour": "dc241f",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1586,
+                "latitude": 51.5136,
+                "station_id": 162,
+                "line_name": "Central Line",
+                "line_id": 2,
+                "line_ref": 1
+            },
+            {
+                "name": "Queensway",
+                "line_colour": "dc241f",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1877,
+                "latitude": 51.5107,
+                "station_id": 207,
+                "line_name": "Central Line",
+                "line_id": 2,
+                "line_ref": 2
+            }
+        ]
+    },
+    {
+        "name": "Leicester Square",
+        "total_lines": 2,
+        "id": 151,
+        "longitude": -0.1281,
+        "latitude": 51.5113,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Charing Cross",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1247,
+                "latitude": 51.508,
+                "station_id": 49,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 12
+            },
+            {
+                "name": "Tottenham Court Road",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.131,
+                "latitude": 51.5165,
+                "station_id": 258,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 11
+            },
+            {
+                "name": "Covent Garden",
+                "line_colour": "0019a8",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1243,
+                "latitude": 51.5129,
+                "station_id": 60,
+                "line_name": "Piccadilly Line",
+                "line_id": 10,
+                "line_ref": 7
+            },
+            {
+                "name": "Picadilly Circus",
+                "line_colour": "0019a8",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1342,
+                "latitude": 51.5098,
+                "station_id": 196,
+                "line_name": "Piccadilly Line",
+                "line_id": 10,
+                "line_ref": 8
+            }
+        ]
+    },
+    {
+        "name": "Liverpool Street",
+        "total_lines": 4,
+        "id": 156,
+        "longitude": -0.0823,
+        "latitude": 51.5178,
+        "rail": 1,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Bank",
+                "line_colour": "dc241f",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0886,
+                "latitude": 51.5133,
+                "station_id": 13,
+                "line_name": "Central Line",
+                "line_id": 2,
+                "line_ref": 2
+            },
+            {
+                "name": "Aldgate",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0755,
+                "latitude": 51.5143,
+                "station_id": 2,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":25
+            },
+            {
+                "name": "Moorgate",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0886,
+                "latitude": 51.5186,
+                "station_id": 167,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":26
+            },
+            {
+                "name": "Aldgate East",
+                "line_colour": "d799af",
+                "line_stripe": "",
+                "time": 4,
+                "longitude": -0.0726,
+                "latitude": 51.5154,
+                "station_id": 3,
+                "line_name": "Hammersmith & City Line",
+                "line_id": 6,
+                "line_ref": 23
+            },
+            {
+                "name": "Moorgate",
+                "line_colour": "d799af",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0886,
+                "latitude": 51.5186,
+                "station_id": 167,
+                "line_name": "Hammersmith & City Line",
+                "line_id": 6,
+                "line_ref": 24
+            },
+            {
+                "name": "Aldgate",
+                "line_colour": "751056",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0755,
+                "latitude": 51.5143,
+                "station_id": 2,
+                "line_name": "Metropolitan Line",
+                "line_id": 8,
+                "line_ref": 17
+            },
+            {
+                "name": "Moorgate",
+                "line_colour": "751056",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0886,
+                "latitude": 51.5186,
+                "station_id": 167,
+                "line_name": "Metropolitan Line",
+                "line_id": 8,
+                "line_ref": 18
+            }
+        ]
+    },
+    {
+        "name": "London Bridge",
+        "total_lines": 2,
+        "id": 157,
+        "longitude": -0.0864,
+        "latitude": 51.5052,
+        "rail": 1,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Southwark",
+                "line_colour": "6a7278",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1052,
+                "latitude": 51.501000000000005,
+                "station_id": 232,
+                "line_name": "Jubilee Line",
+                "line_id": 7,
+                "line_ref": 10
+            },
+            {
+                "name": "Bank",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0886,
+                "latitude": 51.5133,
+                "station_id": 13,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 13
+            },
+            {
+                "name": "Borough",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0943,
+                "latitude": 51.5011,
+                "station_id": 29,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 14
+            }
+        ]
+    },
+    {
+        "name": "Mansion House",
+        "total_lines": 2,
+        "id": 161,
+        "longitude": -0.094,
+        "latitude": 51.5122,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Blackfriars",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1031,
+                "latitude": 51.512,
+                "station_id": 25,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":25
+            },
+            {
+                "name": "Cannon Street",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.0904,
+                "latitude": 51.5113,
+                "station_id": 44,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":26
+            },
+            {
+                "name": "Blackfriars",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1031,
+                "latitude": 51.512,
+                "station_id": 25,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 20
+            },
+            {
+                "name": "Cannon Street",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.0904,
+                "latitude": 51.5113,
+                "station_id": 44,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 19
+            }
+        ]
+    },
+    {
+        "name": "Marble Arch",
+        "total_lines": 1,
+        "id": 162,
+        "longitude": -0.1586,
+        "latitude": 51.5136,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Bond Street",
+                "line_colour": "dc241f",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1494,
+                "latitude": 51.5142,
+                "station_id": 28,
+                "line_name": "Central Line",
+                "line_id": 2,
+                "line_ref": 1
+            },
+            {
+                "name": "Lancaster Gate",
+                "line_colour": "dc241f",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1756,
+                "latitude": 51.5119,
+                "station_id": 149,
+                "line_name": "Central Line",
+                "line_id": 2,
+                "line_ref": 2
+            }
+        ]
+    },
+    {
+        "name": "Marylebone",
+        "total_lines": 1,
+        "id": 163,
+        "longitude": -0.1631,
+        "latitude": 51.5225,
+        "rail": 1,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Baker Street",
+                "line_colour": "894e24",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1571,
+                "latitude": 51.5226,
+                "station_id": 11,
+                "line_name": "Bakerloo Line",
+                "line_id": 1,
+                "line_ref": 5
+            },
+            {
+                "name": "Edgware Road (B)",
+                "line_colour": "894e24",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1679,
+                "latitude": 51.5199,
+                "station_id": 82,
+                "line_name": "Bakerloo Line",
+                "line_id": 1,
+                "line_ref": 6
+            }
+        ]
+    },
+    {
+        "name": "Monument",
+        "total_lines": 2,
+        "id": 166,
+        "longitude": -0.0863,
+        "latitude": 51.5108,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Cannon Street",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0904,
+                "latitude": 51.5113,
+                "station_id": 44,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":25
+            },
+            {
+                "name": "Tower Hill",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0766,
+                "latitude": 51.5098,
+                "station_id": 262,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":26
+            },
+            {
+                "name": "Cannon Street",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0904,
+                "latitude": 51.5113,
+                "station_id": 44,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 20
+            },
+            {
+                "name": "Tower Hill",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0766,
+                "latitude": 51.5098,
+                "station_id": 262,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 19
+            }
+        ]
+    },
+    {
+        "name": "Moorgate",
+        "total_lines": 4,
+        "id": 167,
+        "longitude": -0.0886,
+        "latitude": 51.5186,
+        "rail": 1,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Barbican",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0979,
+                "latitude": 51.5204,
+                "station_id": 14,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":26
+            },
+            {
+                "name": "Liverpool Street",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0823,
+                "latitude": 51.5178,
+                "station_id": 156,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":25
+            },
+            {
+                "name": "Barbican",
+                "line_colour": "d799af",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0979,
+                "latitude": 51.5204,
+                "station_id": 14,
+                "line_name": "Hammersmith & City Line",
+                "line_id": 6,
+                "line_ref": 24
+            },
+            {
+                "name": "Liverpool Street",
+                "line_colour": "d799af",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0823,
+                "latitude": 51.5178,
+                "station_id": 156,
+                "line_name": "Hammersmith & City Line",
+                "line_id": 6,
+                "line_ref": 23
+            },
+            {
+                "name": "Barbican",
+                "line_colour": "751056",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0979,
+                "latitude": 51.5204,
+                "station_id": 14,
+                "line_name": "Metropolitan Line",
+                "line_id": 8,
+                "line_ref": 18
+            },
+            {
+                "name": "Liverpool Street",
+                "line_colour": "751056",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0823,
+                "latitude": 51.5178,
+                "station_id": 156,
+                "line_name": "Metropolitan Line",
+                "line_id": 8,
+                "line_ref": 17
+            },
+            {
+                "name": "Bank",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.0886,
+                "latitude": 51.5133,
+                "station_id": 13,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 14
+            },
+            {
+                "name": "Old Street",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.0873,
+                "latitude": 51.5263,
+                "station_id": 188,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 13
+            }
+        ]
+    },
+    {
+        "name": "Notting Hill Gate",
+        "total_lines": 3,
+        "id": 186,
+        "longitude": -0.1967,
+        "latitude": 51.5094,
+        "rail": 0,
+        "zone": 1.5,
+        "destinations": [
+            {
+                "name": "Queensway",
+                "line_colour": "dc241f",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1877,
+                "latitude": 51.5107,
+                "station_id": 207,
+                "line_name": "Central Line",
+                "line_id": 2,
+                "line_ref": 1
+            },
+            {
+                "name": "Bayswater",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1879,
+                "latitude": 51.5121,
+                "station_id": 18,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":25
+            },
+            {
+                "name": "High Street Kensington",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1925,
+                "latitude": 51.5009,
+                "station_id": 122,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":26
+            },
+            {
+                "name": "Bayswater",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1879,
+                "latitude": 51.5121,
+                "station_id": 18,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 21
+            },
+            {
+                "name": "High Street Kensington",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1925,
+                "latitude": 51.5009,
+                "station_id": 122,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 22
+            }
+        ]
+    },
+    {
+        "name": "Old Street",
+        "total_lines": 1,
+        "id": 188,
+        "longitude": -0.0873,
+        "latitude": 51.5263,
+        "rail": 1,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Angel",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1058,
+                "latitude": 51.5322,
+                "station_id": 7,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 13
+            },
+            {
+                "name": "Moorgate",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.0886,
+                "latitude": 51.5186,
+                "station_id": 167,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 14
+            }
+        ]
+    },
+    {
+        "name": "Oxford Circus",
+        "total_lines": 3,
+        "id": 191,
+        "longitude": -0.1415,
+        "latitude": 51.515,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Picadilly Circus",
+                "line_colour": "894e24",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1342,
+                "latitude": 51.5098,
+                "station_id": 196,
+                "line_name": "Bakerloo Line",
+                "line_id": 1,
+                "line_ref": 5
+            },
+            {
+                "name": "Regent'sPark",
+                "line_colour": "894e24",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1466,
+                "latitude": 51.5234,
+                "station_id": 211,
+                "line_name": "Bakerloo Line",
+                "line_id": 1,
+                "line_ref": 6
+            },
+            {
+                "name": "Bond Street",
+                "line_colour": "dc241f",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1494,
+                "latitude": 51.5142,
+                "station_id": 28,
+                "line_name": "Central Line",
+                "line_id": 2,
+                "line_ref": 2
+            },
+            {
+                "name": "Tottenham Court Road",
+                "line_colour": "dc241f",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.131,
+                "latitude": 51.5165,
+                "station_id": 258,
+                "line_name": "Central Line",
+                "line_id": 2,
+                "line_ref": 1
+            },
+            {
+                "name": "Green Park",
+                "line_colour": "00a0e2",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1428,
+                "latitude": 51.5067,
+                "station_id": 107,
+                "line_name": "Victoria Line",
+                "line_id": 11,
+                "line_ref": 3
+            },
+            {
+                "name": "Warren Street",
+                "line_colour": "00a0e2",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1384,
+                "latitude": 51.5247,
+                "station_id": 276,
+                "line_name": "Victoria Line",
+                "line_id": 11,
+                "line_ref": 4
+            }
+        ]
+    },
+    {
+        "name": "Paddington",
+        "total_lines": 4,
+        "id": 192,
+        "longitude": -0.1755,
+        "latitude": 51.5154,
+        "rail": 1,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Edgware Road (B)",
+                "line_colour": "894e24",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1679,
+                "latitude": 51.5199,
+                "station_id": 82,
+                "line_name": "Bakerloo Line",
+                "line_id": 1,
+                "line_ref": 5
+            },
+            {
+                "name": "Bayswater",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1879,
+                "latitude": 51.5121,
+                "station_id": 18,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":26
+            },
+            {
+                "name": "Edgware Road (CS)",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.17,
+                "latitude": 51.5203,
+                "station_id": 306,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":25
+            },
+            {
+                "name": "Bayswater",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1879,
+                "latitude": 51.5121,
+                "station_id": 18,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 22
+            },
+            {
+                "name": "Edgware Road (CS)",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.17,
+                "latitude": 51.5203,
+                "station_id": 306,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 21
+            },
+            {
+                "name": "Edgware Road (CN)",
+                "line_colour": "d799af",
+                "line_stripe": "",
+                "time": 4,
+                "longitude": -0.17,
+                "latitude": 51.5203,
+                "station_id": 83,
+                "line_name": "Hammersmith & City Line",
+                "line_id": 6,
+                "line_ref": 23
+            }
+        ]
+    },
+    {
+        "name": "Picadilly Circus",
+        "total_lines": 2,
+        "id": 196,
+        "longitude": -0.1342,
+        "latitude": 51.5098,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Charing Cross",
+                "line_colour": "894e24",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1247,
+                "latitude": 51.508,
+                "station_id": 49,
+                "line_name": "Bakerloo Line",
+                "line_id": 1,
+                "line_ref": 5
+            },
+            {
+                "name": "Oxford Circus",
+                "line_colour": "894e24",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1415,
+                "latitude": 51.515,
+                "station_id": 191,
+                "line_name": "Bakerloo Line",
+                "line_id": 1,
+                "line_ref": 6
+            },
+            {
+                "name": "Green Park",
+                "line_colour": "0019a8",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1428,
+                "latitude": 51.5067,
+                "station_id": 107,
+                "line_name": "Piccadilly Line",
+                "line_id": 10,
+                "line_ref": 8
+            },
+            {
+                "name": "Leicester Square",
+                "line_colour": "0019a8",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1281,
+                "latitude": 51.5113,
+                "station_id": 151,
+                "line_name": "Piccadilly Line",
+                "line_id": 10,
+                "line_ref": 7
+            }
+        ]
+    },
+    {
+        "name": "Pimlico",
+        "total_lines": 1,
+        "id": 197,
+        "longitude": -0.1334,
+        "latitude": 51.4893,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Vauxhall",
+                "line_colour": "00a0e2",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1253,
+                "latitude": 51.4861,
+                "station_id": 271,
+                "line_name": "Victoria Line",
+                "line_id": 11,
+                "line_ref": 3
+            },
+            {
+                "name": "Victoria",
+                "line_colour": "00a0e2",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1447,
+                "latitude": 51.4965,
+                "station_id": 272,
+                "line_name": "Victoria Line",
+                "line_id": 11,
+                "line_ref": 4
+            }
+        ]
+    },
+    {
+        "name": "Queensway",
+        "total_lines": 1,
+        "id": 207,
+        "longitude": -0.1877,
+        "latitude": 51.5107,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Lancaster Gate",
+                "line_colour": "dc241f",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1756,
+                "latitude": 51.5119,
+                "station_id": 149,
+                "line_name": "Central Line",
+                "line_id": 2,
+                "line_ref": 1
+            },
+            {
+                "name": "Notting Hill Gate",
+                "line_colour": "dc241f",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1967,
+                "latitude": 51.5094,
+                "station_id": 186,
+                "line_name": "Central Line",
+                "line_id": 2,
+                "line_ref": 2
+            }
+        ]
+    },
+    {
+        "name": "Regent'sPark",
+        "total_lines": 1,
+        "id": 211,
+        "longitude": -0.1466,
+        "latitude": 51.5234,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Baker Street",
+                "line_colour": "894e24",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1571,
+                "latitude": 51.5226,
+                "station_id": 11,
+                "line_name": "Bakerloo Line",
+                "line_id": 1,
+                "line_ref": 6
+            },
+            {
+                "name": "Oxford Circus",
+                "line_colour": "894e24",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1415,
+                "latitude": 51.515,
+                "station_id": 191,
+                "line_name": "Bakerloo Line",
+                "line_id": 1,
+                "line_ref": 5
+            }
+        ]
+    },
+    {
+        "name": "Russell Square",
+        "total_lines": 1,
+        "id": 222,
+        "longitude": -0.1244,
+        "latitude": 51.523,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Holborn",
+                "line_colour": "0019a8",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.12,
+                "latitude": 51.5174,
+                "station_id": 126,
+                "line_name": "Piccadilly Line",
+                "line_id": 10,
+                "line_ref": 8
+            },
+            {
+                "name": "King'sCross St. Pancras",
+                "line_colour": "0019a8",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1238,
+                "latitude": 51.5308,
+                "station_id": 145,
+                "line_name": "Piccadilly Line",
+                "line_id": 10,
+                "line_ref": 7
+            }
+        ]
+    },
+    {
+        "name": "Sloane Square",
+        "total_lines": 2,
+        "id": 228,
+        "longitude": -0.1565,
+        "latitude": 51.4924,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "South Kensington",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1738,
+                "latitude": 51.4941,
+                "station_id": 235,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":25
+            },
+            {
+                "name": "Victoria",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1447,
+                "latitude": 51.4965,
+                "station_id": 272,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":26
+            },
+            {
+                "name": "South Kensington",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1738,
+                "latitude": 51.4941,
+                "station_id": 235,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 20
+            },
+            {
+                "name": "Victoria",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1447,
+                "latitude": 51.4965,
+                "station_id": 272,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 19
+            }
+        ]
+    },
+    {
+        "name": "Southwark",
+        "total_lines": 1,
+        "id": 232,
+        "longitude": -0.1052,
+        "latitude": 51.501000000000005,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "London Bridge",
+                "line_colour": "6a7278",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0864,
+                "latitude": 51.5052,
+                "station_id": 157,
+                "line_name": "Jubilee Line",
+                "line_id": 7,
+                "line_ref": 9
+            },
+            {
+                "name": "Waterloo",
+                "line_colour": "6a7278",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1143,
+                "latitude": 51.5036,
+                "station_id": 278,
+                "line_name": "Jubilee Line",
+                "line_id": 7,
+                "line_ref": 10
+            }
+        ]
+    },
+    {
+        "name": "South Kensington",
+        "total_lines": 3,
+        "id": 235,
+        "longitude": -0.1738,
+        "latitude": 51.4941,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Gloucester Road",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1829,
+                "latitude": 51.4945,
+                "station_id": 99,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":25
+            },
+            {
+                "name": "Sloane Square",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1565,
+                "latitude": 51.4924,
+                "station_id": 228,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":26
+            },
+            {
+                "name": "Gloucester Road",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1829,
+                "latitude": 51.4945,
+                "station_id": 99,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 20
+            },
+            {
+                "name": "Sloane Square",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1565,
+                "latitude": 51.4924,
+                "station_id": 228,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 19
+            },
+            {
+                "name": "Gloucester Road",
+                "line_colour": "0019a8",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1829,
+                "latitude": 51.4945,
+                "station_id": 99,
+                "line_name": "Piccadilly Line",
+                "line_id": 10,
+                "line_ref": 8
+            },
+            {
+                "name": "Knightsbridge",
+                "line_colour": "0019a8",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1607,
+                "latitude": 51.5015,
+                "station_id": 146,
+                "line_name": "Piccadilly Line",
+                "line_id": 10,
+                "line_ref": 7
+            }
+        ]
+    },
+    {
+        "name": "St. James'sPark",
+        "total_lines": 2,
+        "id": 247,
+        "longitude": -0.1335,
+        "latitude": 51.4994,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Victoria",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1447,
+                "latitude": 51.4965,
+                "station_id": 272,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":25
+            },
+            {
+                "name": "Westminster",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1254,
+                "latitude": 51.501000000000005,
+                "station_id": 284,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":26
+            },
+            {
+                "name": "Victoria",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1447,
+                "latitude": 51.4965,
+                "station_id": 272,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 20
+            },
+            {
+                "name": "Westminster",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1254,
+                "latitude": 51.501000000000005,
+                "station_id": 284,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 19
+            }
+        ]
+    },
+    {
+        "name": "St. Paul's",
+        "total_lines": 1,
+        "id": 249,
+        "longitude": -0.0973,
+        "latitude": 51.5146,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Bank",
+                "line_colour": "dc241f",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0886,
+                "latitude": 51.5133,
+                "station_id": 13,
+                "line_name": "Central Line",
+                "line_id": 2,
+                "line_ref": 1
+            },
+            {
+                "name": "Chancery Lane",
+                "line_colour": "dc241f",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1111,
+                "latitude": 51.5185,
+                "station_id": 48,
+                "line_name": "Central Line",
+                "line_id": 2,
+                "line_ref": 2
+            }
+        ]
+    },
+    {
+        "name": "Temple",
+        "total_lines": 2,
+        "id": 254,
+        "longitude": -0.1141,
+        "latitude": 51.5111,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Blackfriars",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1031,
+                "latitude": 51.512,
+                "station_id": 25,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":26
+            },
+            {
+                "name": "Embankment",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1223,
+                "latitude": 51.5074,
+                "station_id": 87,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":25
+            },
+            {
+                "name": "Blackfriars",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1031,
+                "latitude": 51.512,
+                "station_id": 25,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 19
+            },
+            {
+                "name": "Embankment",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1223,
+                "latitude": 51.5074,
+                "station_id": 87,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 20
+            }
+        ]
+    },
+    {
+        "name": "Tottenham Court Road",
+        "total_lines": 2,
+        "id": 258,
+        "longitude": -0.131,
+        "latitude": 51.5165,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Holborn",
+                "line_colour": "dc241f",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.12,
+                "latitude": 51.5174,
+                "station_id": 126,
+                "line_name": "Central Line",
+                "line_id": 2,
+                "line_ref": 1
+            },
+            {
+                "name": "Oxford Circus",
+                "line_colour": "dc241f",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1415,
+                "latitude": 51.515,
+                "station_id": 191,
+                "line_name": "Central Line",
+                "line_id": 2,
+                "line_ref": 2
+            },
+            {
+                "name": "Goodge Street",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1347,
+                "latitude": 51.5205,
+                "station_id": 102,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 11
+            },
+            {
+                "name": "Leicester Square",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1281,
+                "latitude": 51.5113,
+                "station_id": 151,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 12
+            }
+        ]
+    },
+    {
+        "name": "Tower Gateway",
+        "total_lines": 1,
+        "id": 261,
+        "longitude": -0.0743,
+        "latitude": 51.5106,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": []
+    },
+    {
+        "name": "Tower Hill",
+        "total_lines": 2,
+        "id": 262,
+        "longitude": -0.0766,
+        "latitude": 51.5098,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Aldgate",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 4,
+                "longitude": -0.0755,
+                "latitude": 51.5143,
+                "station_id": 2,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":26
+            },
+            {
+                "name": "Monument",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0863,
+                "latitude": 51.5108,
+                "station_id": 166,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":25
+            },
+            {
+                "name": "Aldgate East",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0726,
+                "latitude": 51.5154,
+                "station_id": 3,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 19
+            },
+            {
+                "name": "Monument",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.0863,
+                "latitude": 51.5108,
+                "station_id": 166,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 20
+            }
+        ]
+    },
+    {
+        "name": "Vauxhall",
+        "total_lines": 1,
+        "id": 271,
+        "longitude": -0.1253,
+        "latitude": 51.4861,
+        "rail": 1,
+        "zone": 1.5,
+        "destinations": [
+            {
+                "name": "Pimlico",
+                "line_colour": "00a0e2",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1334,
+                "latitude": 51.4893,
+                "station_id": 197,
+                "line_name": "Victoria Line",
+                "line_id": 11,
+                "line_ref": 4
+            }
+        ]
+    },
+    {
+        "name": "Victoria",
+        "total_lines": 3,
+        "id": 272,
+        "longitude": -0.1447,
+        "latitude": 51.4965,
+        "rail": 1,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Sloane Square",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1565,
+                "latitude": 51.4924,
+                "station_id": 228,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":25
+            },
+            {
+                "name": "St. James'sPark",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1335,
+                "latitude": 51.4994,
+                "station_id": 247,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":26
+            },
+            {
+                "name": "Sloane Square",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1565,
+                "latitude": 51.4924,
+                "station_id": 228,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 20
+            },
+            {
+                "name": "St. James'sPark",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1335,
+                "latitude": 51.4994,
+                "station_id": 247,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 19
+            },
+            {
+                "name": "Green Park",
+                "line_colour": "00a0e2",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1428,
+                "latitude": 51.5067,
+                "station_id": 107,
+                "line_name": "Victoria Line",
+                "line_id": 11,
+                "line_ref": 4
+            },
+            {
+                "name": "Pimlico",
+                "line_colour": "00a0e2",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1334,
+                "latitude": 51.4893,
+                "station_id": 197,
+                "line_name": "Victoria Line",
+                "line_id": 11,
+                "line_ref": 3
+            }
+        ]
+    },
+    {
+        "name": "Warren Street",
+        "total_lines": 2,
+        "id": 276,
+        "longitude": -0.1384,
+        "latitude": 51.5247,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Euston",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1337,
+                "latitude": 51.5282,
+                "station_id": 89,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 11
+            },
+            {
+                "name": "Goodge Street",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1347,
+                "latitude": 51.5205,
+                "station_id": 102,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 12
+            },
+            {
+                "name": "Euston",
+                "line_colour": "00a0e2",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1337,
+                "latitude": 51.5282,
+                "station_id": 89,
+                "line_name": "Victoria Line",
+                "line_id": 11,
+                "line_ref": 4
+            },
+            {
+                "name": "Oxford Circus",
+                "line_colour": "00a0e2",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1415,
+                "latitude": 51.515,
+                "station_id": 191,
+                "line_name": "Victoria Line",
+                "line_id": 11,
+                "line_ref": 3
+            }
+        ]
+    },
+    {
+        "name": "Waterloo",
+        "total_lines": 4,
+        "id": 278,
+        "longitude": -0.1143,
+        "latitude": 51.5036,
+        "rail": 1,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Embankment",
+                "line_colour": "894e24",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1223,
+                "latitude": 51.5074,
+                "station_id": 87,
+                "line_name": "Bakerloo Line",
+                "line_id": 1,
+                "line_ref": 6
+            },
+            {
+                "name": "Lambeth North",
+                "line_colour": "894e24",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1115,
+                "latitude": 51.4991,
+                "station_id": 148,
+                "line_name": "Bakerloo Line",
+                "line_id": 1,
+                "line_ref": 5
+            },
+            {
+                "name": "Southwark",
+                "line_colour": "6a7278",
+                "line_stripe": "",
+                "time": 1,
+                "longitude": -0.1052,
+                "latitude": 51.501000000000005,
+                "station_id": 232,
+                "line_name": "Jubilee Line",
+                "line_id": 7,
+                "line_ref": 9
+            },
+            {
+                "name": "Westminster",
+                "line_colour": "6a7278",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1254,
+                "latitude": 51.501000000000005,
+                "station_id": 284,
+                "line_name": "Jubilee Line",
+                "line_id": 7,
+                "line_ref": 10
+            },
+            {
+                "name": "Embankment",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1223,
+                "latitude": 51.5074,
+                "station_id": 87,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 11
+            },
+            {
+                "name": "Kennington",
+                "line_colour": "000000",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1053,
+                "latitude": 51.4884,
+                "station_id": 136,
+                "line_name": "Northern Line",
+                "line_id": 9,
+                "line_ref": 12
+            },
+            {
+                "name": "Bank",
+                "line_colour": "76d0bd",
+                "line_stripe": "",
+                "time": 4,
+                "longitude": -0.0886,
+                "latitude": 51.5133,
+                "station_id": 13,
+                "line_name": "Waterloo & City Line",
+                "line_id": 12,
+                "line_ref": 28
+            }
+        ]
+    },
+    {
+        "name": "Westminster",
+        "total_lines": 3,
+        "id": 284,
+        "longitude": -0.1254,
+        "latitude": 51.501000000000005,
+        "rail": 0,
+        "zone": 1.0,
+        "destinations": [
+            {
+                "name": "Embankment",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1223,
+                "latitude": 51.5074,
+                "station_id": 87,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":26
+            },
+            {
+                "name": "St. James'sPark",
+                "line_colour": "ffce00",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1335,
+                "latitude": 51.4994,
+                "station_id": 247,
+                "line_name": "Circle Line",
+                "line_id": 3,
+                "line_ref":25
+            },
+            {
+                "name": "Embankment",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1223,
+                "latitude": 51.5074,
+                "station_id": 87,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 19
+            },
+            {
+                "name": "St. James'sPark",
+                "line_colour": "007229",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1335,
+                "latitude": 51.4994,
+                "station_id": 247,
+                "line_name": "District Line",
+                "line_id": 4,
+                "line_ref": 20
+            },
+            {
+                "name": "Green Park",
+                "line_colour": "6a7278",
+                "line_stripe": "",
+                "time": 3,
+                "longitude": -0.1428,
+                "latitude": 51.5067,
+                "station_id": 107,
+                "line_name": "Jubilee Line",
+                "line_id": 7,
+                "line_ref": 10
+            },
+            {
+                "name": "Waterloo",
+                "line_colour": "6a7278",
+                "line_stripe": "",
+                "time": 2,
+                "longitude": -0.1143,
+                "latitude": 51.5036,
+                "station_id": 278,
+                "line_name": "Jubilee Line",
+                "line_id": 7,
+                "line_ref": 9
+            }
+        ]
+    }
+]
