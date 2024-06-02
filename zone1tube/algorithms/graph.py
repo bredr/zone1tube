@@ -43,12 +43,14 @@ def generate_graph(stations: list[ExtStation], change_time: int) -> Graph:
             for dest in station.destinations:
                 dest_ref = Node(dest.station_id, dest.line_ref)
                 j = node_inverse_lookup[dest_ref]
-                if line_ref == dest.line_ref:
+                if line_ref == dest.line_ref or dest.time == 0:
                     adj_matrix[i, j] = dest.time
-                elif dest.time == 0:
-                    adj_matrix[i, j] = 0
                 else:
-                    adj_matrix[i, j] = dest.time + change_time
+                    other_source_ref = Node(station.id, dest.line_ref)
+                    other_i = node_inverse_lookup[other_source_ref]
+                    adj_matrix[i, other_i] = change_time
+                    adj_matrix[other_i, j] = dest.time
+
     csr_m = csgraph_from_dense(adj_matrix, null_value=np.inf)
 
     return Graph(
