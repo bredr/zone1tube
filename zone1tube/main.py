@@ -3,7 +3,8 @@ from typing import Annotated
 
 import typer
 
-from zone1tube.algorithms.graph import generate_graph
+from zone1tube.algorithms.init import InitState
+from zone1tube.algorithms.optimizer import SimulatedAnnealing
 from zone1tube.data.stations import ExtStations
 from zone1tube.logger import TyperLoggerHandler
 
@@ -19,7 +20,7 @@ def starting_stations_autocomplete(incomplete: str):
     return [s.name for s in stations if s.name.lower().startswith(incomplete.lower())]
 
 
-app = typer.Typer()
+app = typer.Typer(pretty_exceptions_enable=False)
 
 
 @app.command()
@@ -37,7 +38,22 @@ def main(
 ):
     log(level=INFO, msg=f"Loaded {len(stations)} stations.")
     log(level=INFO, msg=f"Starting station set as '{start}'.")
-    generate_graph(stations, change_time)
+    optimizer = SimulatedAnnealing(stations, change_time)
+    start_id = next(s.id for s in stations if s.name == start)
+    name_lookup = {s.id: s.name for s in stations}
+
+    init_generator = InitState(stations, change_time)
+
+    init_state = init_generator.get(start_id)
+    log(
+        level=INFO,
+        msg="Starting state:" + " -> ".join(name_lookup[s] for s in init_state),
+    )
+
+    solution, time, route = optimizer.optimize(init_state)
+    log(level=INFO, msg=f"Solution found of {time} mins")
+
+    log(level=INFO, msg=" -> ".join(name_lookup[s] for s in solution))
 
 
 if __name__ == "__main__":

@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "zone1tube"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}

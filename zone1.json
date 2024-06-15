@@ -3491,16 +3491,6 @@
         ]
     },
     {
-        "name": "Tower Gateway",
-        "total_lines": 1,
-        "id": 261,
-        "longitude": -0.0743,
-        "latitude": 51.5106,
-        "rail": 0,
-        "zone": 1.0,
-        "destinations": []
-    },
-    {
         "name": "Tower Hill",
         "total_lines": 2,
         "id": 262,
